@@ -1,6 +1,6 @@
 # repoStarterKit
 
-Developer: Preda (Wen) Anuvatnujotikul
+Developer: Wei He
 
 Notes:
 This is a repository that I created to help others develop their websites in React.
